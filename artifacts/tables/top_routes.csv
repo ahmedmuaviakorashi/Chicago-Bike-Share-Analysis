@@ -1,0 +1,21 @@
+member_casual,start_station_name,end_station_name,rides
+casual,Streeter Dr & Grand Ave,Streeter Dr & Grand Ave,8871
+casual,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,7242
+casual,DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,5265
+casual,Michigan Ave & Oak St,Michigan Ave & Oak St,4619
+casual,Millennium Park,Millennium Park,3378
+casual,Dusable Harbor,Dusable Harbor,3107
+casual,Streeter Dr & Grand Ave,DuSable Lake Shore Dr & Monroe St,2704
+casual,Shedd Aquarium,Streeter Dr & Grand Ave,2393
+casual,Dusable Harbor,Streeter Dr & Grand Ave,2377
+casual,Montrose Harbor,Montrose Harbor,2346
+member,State St & 33rd St,Calumet Ave & 33rd St,5587
+member,Calumet Ave & 33rd St,State St & 33rd St,5504
+member,Ellis Ave & 60th St,University Ave & 57th St,3988
+member,Ellis Ave & 60th St,Ellis Ave & 55th St,3976
+member,University Ave & 57th St,Ellis Ave & 60th St,3942
+member,Ellis Ave & 55th St,Ellis Ave & 60th St,3837
+member,Loomis St & Lexington St,Morgan St & Polk St,2592
+member,Morgan St & Polk St,Loomis St & Lexington St,2259
+member,MLK Jr Dr & 29th St,State St & 33rd St,1898
+member,University Ave & 57th St,Kimbark Ave & 53rd St,1868

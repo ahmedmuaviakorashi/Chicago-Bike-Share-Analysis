@@ -1,0 +1,11 @@
+{
+  "raw_rows": 5860568,
+  "duplicate_ride_id_rows": 211,
+  "missing_ride_id_rows": 0,
+  "invalid_member_type_rows": 0,
+  "invalid_time_rows": 723,
+  "over_24_hour_rows": 7596,
+  "station_incomplete_rows": 1652259,
+  "outside_analysis_year_rows": 0,
+  "valid_rows": 5852081
+}

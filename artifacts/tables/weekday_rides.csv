@@ -1,0 +1,15 @@
+iso_weekday,weekday,member_casual,rides
+1,Monday,casual,252900
+1,Monday,member,534344
+2,Tuesday,casual,231817
+2,Tuesday,member,570387
+3,Wednesday,casual,268632
+3,Wednesday,member,609954
+4,Thursday,casual,264401
+4,Thursday,member,570300
+5,Friday,casual,314825
+5,Friday,member,525508
+6,Saturday,casual,444005
+6,Saturday,member,479440
+7,Sunday,casual,368571
+7,Sunday,member,416997
